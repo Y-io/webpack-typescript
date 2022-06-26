@@ -1,0 +1,16 @@
+.DS_STORE
+.idea
+.vscode/*
+!.vscode/launch.json
+*.log
+*.log.*
+*.tsbuildinfo
+/.history
+*.tmp
+.settings
+
+build
+node_modules
+package-lock.json
+npm-debug.log
+yarn.lock
